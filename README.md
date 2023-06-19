@@ -8,6 +8,6 @@
 <p Align="justify">Os Inimigos possuem box collider 2d e rigidbody 2d para eles nao atravessarem as paredes e capturem o jogador.</p>
 <p Align="justify">Os Pacdots sao os pontos do jogo, eles possuem box collider 2d com trigger para ativar o script toda vez que o pacman encostar nele.</p>
 
-<p Align="justify">https://github.com/PedroFRomao/Jogo-Pacman</p>
+<p Align="justify">https://1drv.ms/u/s!Amr7qOc9psJNhblesj1kflk-W4BTZw?e=t77VEq</p>
  
 ![foto1](https://github.com/PedroFRomao/Jogo-Pacman/assets/120103357/a3095577-892c-43d4-ab4a-d03f786d06f6)
