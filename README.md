@@ -10,6 +10,4 @@
 
 <p Align="justify">https://github.com/PedroFRomao/Jogo-Pacman</p>
  
-<div center>
 ![foto1](https://github.com/PedroFRomao/Jogo-Pacman/assets/120103357/a3095577-892c-43d4-ab4a-d03f786d06f6)
-</div>
