@@ -10,4 +10,4 @@
 
 
  
-<img align="center" src="img/foto.jpg">
+<img align="center" src="img/foto1.png">
